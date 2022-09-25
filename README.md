@@ -1,16 +1,7 @@
-# movie_app
+# Aplicativo de Filmes em Flutter
 
-A new Flutter project.
+## Resumo do Projeto
 
-## Getting Started
+Projeto feito em Flutter para um aplicativo de filmes utilizando a API de filmes do TMDB (https://www.themoviedb.org) mostrando os filmes mais vistos, populares, séries de tv mais populares e uma página de informação mostrando os detalhes destes filmes.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter project to a movie application using TMDB movie API (https://www.themoviedb.org) showing trending movies, populars, most popular tv shows and a info page about all of these movies.
